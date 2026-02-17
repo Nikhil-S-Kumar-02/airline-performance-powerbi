@@ -69,7 +69,3 @@ This project showcases the full data workflow — from raw Excel files to a robu
 
 ---
 
-## 📫 Contact
-📧 nikhilskumar02@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/nikhilskumar2703)  
-💻 [GitHub](https://github.com/Nikhil-S-Kumar-02)

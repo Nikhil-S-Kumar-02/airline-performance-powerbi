@@ -1,7 +1,7 @@
 # Airline Performance Analysis using Power BI
 
 ## Overview
-This project analyzes airline operations using Power BI to uncover insights in flight schedules, passenger counts, and ticket statuses. The dashboard was built using Power Query, data modeling, DAX, and interactive visuals, aimed at improving operational efficiency and customer satisfaction.
+This project was done for educational and demonstrative purposes to analyse airline operations using Power BI to uncover insights in flight schedules, passenger counts, and ticket statuses. The dashboard was built using Power Query, data modeling, DAX, and interactive visuals, aimed at improving operational efficiency and customer satisfaction.
 
 ---
 
@@ -68,4 +68,4 @@ This project analyzes airline operations using Power BI to uncover insights in f
 This project showcases the full data workflow — from raw Excel files to a robust, interactive dashboard — and demonstrates how Power BI can drive better decision-making in complex, real-time operational environments.
 
 ---
-
+> This project was done for educational and demonstrative purposes.
